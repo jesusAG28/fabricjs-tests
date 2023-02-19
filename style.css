@@ -1,0 +1,14 @@
+html {
+    background-color: #ededed;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.canvas-container {
+    border: thin solid #2e2e2e;
+}
